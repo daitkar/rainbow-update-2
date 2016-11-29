@@ -12,7 +12,6 @@ angular.module('y', [
     'ui.bootstrap',
     // 'angularXml2json'
     'restangular',
-    'bitbucket-rest',
     'auth0',
     'angular-storage',
     'angular-jwt'
